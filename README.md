@@ -251,3 +251,9 @@ If you reference this work in academic publications, please use the following ci
   note      = {Pre-publication draft. Nature journal format. 
                Available at: https://github.com/craigwarner-ufastro/clawedToDeath},
   keywords  = {
+
+---
+
+## 📄 Full Article
+
+**Google Doc (Nature-style formatted):** https://docs.google.com/document/d/10RLTOS_L3Civ4wqb4c6I8bc35ZFZzW7UvoR3JmLOd0Q/edit?usp=drivesdk
