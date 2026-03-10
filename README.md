@@ -197,17 +197,7 @@ The Open Claw benchmark represents one of the most comprehensive empirical evalu
 
 ## 📄 Read the Article
 
-> 🚧 **Pre-Publication Status:** The full article is currently in pre-publication review. 
 
-| Format | Link | Status |
-|--------|------|--------|
-| **Full Article (PDF)** | [`article/clawed_to_death_preprint.pdf`](article/clawed_to_death_preprint.pdf) | 🟢 Available |
-| **LaTeX Source** | [`article/source/`](article/source/) | 🟢 Available |
-| **Supplementary Materials** | [`article/supplementary/`](article/supplementary/) | 🟡 In Preparation |
-| **arXiv Preprint** | *Link pending submission* | 🔴 Pending |
-| **Nature Submission** | *Under consideration* | 🔴 Pending |
-
----
 
 ## 🗂 Repository Structure
 
